@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 # --------------------------------------------------------------------------
-# DotStar Light Painter for Raspberry Pi.
+# Presentation Interface for the DotStar Light Painter for Raspberry Pi.
 #
 # Hardware requirements:
 # - Raspberry Pi computer (any model)
@@ -19,7 +19,7 @@
 #
 # Written by Phil Burgess / Paint Your Dragon for Adafruit Industries.
 # Heavily modified by John Watson for Dr Tamara Watson
-# --> This version by Richard Schweitzer for absolute timing and demo purposes!
+# --> This version is written by Richard Schweitzer for absolute timing and demo purposes!
 #
 # Adafruit invests time and resources providing this open source code,
 # please support Adafruit and open-source hardware by purchasing products
